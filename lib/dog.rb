@@ -6,6 +6,3 @@ def initialize(name, breed)
 end
 
 end
-
-
-
